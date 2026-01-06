@@ -1,4 +1,4 @@
-# ESP32-C3 Configurable NeoPixel Matrix
+# ESP32-S3 Configurable NeoPixel Matrix
 
 This project runs colorful lighting effects on a configurable NeoPixel LED matrix driven by an ESP32
 

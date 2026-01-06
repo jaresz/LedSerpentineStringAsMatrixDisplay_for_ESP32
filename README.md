@@ -11,6 +11,10 @@ This project runs colorful lighting effects on a configurable NeoPixel LED matri
   - Row 2 (even): Left→Right (LEDs 2*cols to 3*cols-1)
   - And so on...
 
+## Web interface screen-shots
+<img src="images/matrix_01.gif" alt="LED Matrix Visualization" style="">
+<img src="images/matrix_02.gif" alt="LED Matrix Visualization" style="">
+
 ## Matrix Configuration Limits
 - **Maximum LED strip length**: 256 LEDs
 - **Columns**: 20-40 (configurable in code)
